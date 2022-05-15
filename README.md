@@ -8,4 +8,4 @@ Management has approached the data analystics team to review production data to 
 
 Using the dataset for the prototype for MechaCars produce a linear regression model to predict MPG from the variable of vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD.
 
-![LR_to_predict_MPG](Analysis%20Project%20Folder/MechaCar_Statistical_Analysis%20Folder/Resources/LR_to_predict_MPG.PNG)
+![LR_to_predict_MPG](/MechaCar_Statistical_Analysis/Resources/LR_to_predict_MPG.PNG)
