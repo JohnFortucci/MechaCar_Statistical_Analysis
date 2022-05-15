@@ -6,8 +6,24 @@ Management has approached the data analystics team to review production data to 
 
 ### Overview
 
-Using the dataset for the prototype for MechaCars produce a linear regression model to predict MPG from the variable of vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD.
+Using the dataset for the prototype for MechaCars produce a linear regression model to predict MPG from the variables of vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD.
+
+### Output
+
+Below is the output showing the results of the linear regression model to predict MPG from the variables :- 
+
+- Vehicle length
+- Vehicle weight
+- Spoiler angle 
+- Ground clearance
+- AWD.
+
 
 ![LR_to_predict_MPG](/Resources/LR_to_predict_MPG.PNG)
 
+### Analysis
 
+Based on the above :- 
+- Vehicle length and ground clearance provided a non-random amount of variance to the mpg values using this dataset, as shown by their low p-values. 
+- The slope of the linear model is not considered to be zero because the estimates for all coefficients are not zero. 
+- This model predicts the MPG of MechaCar protoypes effectively because the Adjusted R-squared reflects that ~68.25% of the variation within mpg is explained by the coefficients.
