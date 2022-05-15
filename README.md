@@ -71,3 +71,8 @@ Perform t-tests to determine if all manufacturing lots and each lot individually
 Below is the output showing the runlog of the code executed to generate the T-tests.
 
 ![T_test_output](/Resources/T_test_output.PNG)
+
+### Analysis
+
+#### Overall Suspension Coil T-Test
+
