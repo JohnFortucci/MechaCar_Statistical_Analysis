@@ -115,7 +115,7 @@ That there is a difference in the safety ratings between MechaCar and its compet
 
 Further analysis could be done using the results from the t-test by breaking the data by specific competetion to get a more granualar comparaison.
 
-I.E.
+I.E. 
 
 - MechaCar V Competition A
 - MechaCar V Competition B
