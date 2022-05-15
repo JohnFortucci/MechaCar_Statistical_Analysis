@@ -59,3 +59,15 @@ The table below shows the mean, median, variance, and standard deviation of the 
 
 Based on the summary tables above it can be seen that based on the variance of suspension colis in the total summary table , the suspension coils meet the MechaCar design specifications. 
 If we break the data by manufacturing lot summary we can see that Lots 1 and 2 meet the MechaCar specification , but lot 3 is outwith the MechaCar specification.
+
+## T-Tests on Suspension Coils
+
+### Overview
+
+Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
+### Output
+
+Below is the output showing the runlog of the code executed to generate the T-tests.
+
+
