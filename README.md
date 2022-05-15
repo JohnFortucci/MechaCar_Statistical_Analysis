@@ -41,3 +41,10 @@ Using the dataset Suspension_Coil.csv which contains the the weight capacities o
 
 Below is the output showing the runlog of the code executed to generate the summary statistics
 
+![SS_on_Suspension_Coils](/Resources/SS_on_Suspension_Coils.PNG)
+
+### Analysis
+
+![Lot_Summary](/Resources/Lot_Summary.PNG)
+
+![Total_Summary](/Resources/Total_Summary.PNG)
