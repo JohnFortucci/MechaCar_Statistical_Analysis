@@ -55,7 +55,7 @@ The table below shows the mean, median, variance, and standard deviation of the 
 The table below shows the mean, median, variance, and standard deviation of the PSI generated for each manufacturing lot.
 
 #### Lot Summary
-![Total_Summary](/Resources/Total_Summary.PNG)
+![Lot_Summary](/Resources/Lot_Summary.PNG)
 
 Based on the summary tables above it can be seen that based on the variance of suspension colis in the total summary table , the suspension coils meet the MechaCar design specifications. 
 If we break the data by manufacturing lot summary we can see that Lots 1 and 2 meet the MechaCar specification , but lot 3 is outwith the MechaCar specification.
