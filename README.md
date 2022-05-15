@@ -78,7 +78,38 @@ Below is the output showing the runlog of the code executed to generate the T-te
 
 ![Overall_Suspension_Coil_T_Test](/Resources/Overall_Suspension_Coil_T_Test.PNG)
 
+Based on the above T-test results to test if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch show that, at a 95% confidence level, the two means are not statistically different. Due to the p-value of 0.06028 which is higher than the critical value of 0.05, the null hypothesis can be accepted in that there is no difference between the means of the PSI for the population and overall manufacturing lot sample. The means within the 95% confidence range are between 1497.5 and 1500 PSI.
+
+#### Lot 1 Suspension Coil T-Test
 
 ![Lot1_Suspension_Coil_T_Test](/Resources/Lot1_Suspension_Coil_T_Test.PNG)
+
+Based on the above t-test to test if the PSI mean for Lot1 is statistically different from the population mean of 1,500 pounds per square inch show that, at a 95% confidence level, the two means are not statistically different. The p-value of 1 shows that the mean for Lot1 is exactly the same same as the population mean of 1500 PSI.
+
+#### Lot 2 Suspension Coil T-Test
+
 ![Lot2_Suspension_Coil_T_Test](/Resources/Lot2_Suspension_Coil_T_Test.PNG)
+
+Based on the above t-test to test if the PSI mean for Lot2 is statistically different from the population mean of 1,500 pounds per square inch show that, at a 95% confidence level, the two means are not statistically different. Due to the p-value of 0.6072 is higher than the critical value of 0.05, the null hypothesis can be accepted in that there is no difference between the means of the PSI for the population and Lot2. The means within the 95% confidence range are between 1499.423 and 1500.977 PSI.
+
+#### Lot 3 Suspension Coil T-Test
+
 ![Lot3_Suspension_Coil_T_Test](/Resources/Lot3_Suspension_Coil_T_Test.PNG)
+
+Based on the above t-test to test if the PSI mean for Lot3 is statistically different from the population mean of 1,500 pounds per square inch show that, at a 95% confidence level, the two means are statistically different. Due to the p-value of 0.04168 is lower than the critical value of 0.05, the null hypothesis should be rejected in that there is a difference between the means of the PSI for the population and Lot3 and the true mean is not equal to 1500. The means within the 95% confidence range are between 1492.431 and 1499.849 PSI.
+
+## Study Design: MechaCar vs Competition
+
+To perform a comparitive study that would quantify how the MechaCar performs against its competition, an independent t-test could be used to compare the safety ratings of MechaCar against its competition. 
+An independent t-test could be used because it will compare the means of the two different groups, MechaCar and its competition, to determine whether the associated population means are significantly different. 
+To run this statistical test, ordinal data on the safety ratings for each group is needed. 
+
+NULL hypothesis would be :- 
+
+That there is no difference in safety ratings between MechaCar and its competition. 
+
+Alternative hypothesis would be :- 
+
+That there is a difference in the safety ratings between MechaCar and its competition.
+
+Further analysis could be done using the results from the t-test.
