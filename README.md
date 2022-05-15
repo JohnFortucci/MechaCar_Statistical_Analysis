@@ -101,15 +101,21 @@ Based on the above t-test to test if the PSI mean for Lot3 is statistically diff
 ## Study Design: MechaCar vs Competition
 
 To perform a comparitive study that would quantify how the MechaCar performs against its competition, an independent t-test could be used to compare the safety ratings of MechaCar against its competition. 
-An independent t-test could be used because it will compare the means of the two different groups, MechaCar and its competition, to determine whether the associated population means are significantly different. 
-To run this statistical test, ordinal data on the safety ratings for each group is needed. 
+An independent t-test could be used because it will compare the means of the two different groups, MechaCar and its competition, to determine whether the associated population means are significantly different.
 
-NULL hypothesis would be :- 
+To run this statistical test, ordinal data on the safety ratings for each manuafcturer is needed. 
+
+- NULL hypothesis would be :- 
 
 That there is no difference in safety ratings between MechaCar and its competition. 
 
-Alternative hypothesis would be :- 
+- Alternative hypothesis would be :- 
 
 That there is a difference in the safety ratings between MechaCar and its competition.
 
-Further analysis could be done using the results from the t-test.
+Further analysis could be done using the results from the t-test by breaking the data by specific competetion to get a more granualar comparaison.
+
+I.E.
+
+- MechaCar V Competition A
+- MechaCar V Competition B
